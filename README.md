@@ -1,3 +1,0 @@
-# `web3-storefront`
-
-> Coming very soon ... 
